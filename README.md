@@ -24,3 +24,5 @@ Meanwhile, below is the average ORPM by position; mostly it's the inverse of the
 <img src="https://github.com/zswitten/bball_opposition_research/blob/main/avg_orpm_by_position.png" width=50% height=50%>
 
 - This analysis would be more precise if I controlled for strength of schedule. A sign of this is that all three of the Lakers "stars" (AD, LeBron, Russ) are in the top 10 for high opponent ORPMs which probably just means the Lakers have faced good offenses.
+
+Note: everything here is for the 2022-23 season and I excluded anyone who's played fewer than 300 minutes.
